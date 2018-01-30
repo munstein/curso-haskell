@@ -1,0 +1,2 @@
+push :: [Int] -> Int -> [Int]
+push list x = list ++ [x]
